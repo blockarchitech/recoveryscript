@@ -3,6 +3,9 @@ Windows 11/10 Recovery script
 
 This is a Script to run some basic recovery commands, boot into safebook, chkdsk, etc.
 
+**DO NOT RUN THIS UNDER NORMAL SHELL*
+Please run under a recovery shell! Either Recovery Mode, or from a Windows install USB!
+
 # Contributing
 Have an issue?
 Open an issue!
